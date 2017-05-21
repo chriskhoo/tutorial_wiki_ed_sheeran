@@ -1,0 +1,39 @@
+body {
+    color: #2e2e2e;
+
+}
+
+article {
+    display: inline-block;
+    width: 70%;
+    vertical-align: top;
+}
+
+aside{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    border: grey 2px solid;
+    padding: 5px;
+}
+
+.portrait {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+}
+
+.caption{
+    text-align: center;
+    font-size: 0.75rem;
+}
+
+h2{
+    text-align: center;
+    font-size: 1.3rem;
+    background: #f0e68c;
+}
+
+.row_head{
+    font-weight: 700;
+}
