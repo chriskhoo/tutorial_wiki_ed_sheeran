@@ -2,7 +2,8 @@
 Basic HTML CSS exercise to build a wiki page
 
 ## Instructions to recreate the HTML page: 
-Use the end state shown as a reference and do the follow. 
+Click [here](https://chriskhoo.github.io/tutorial_wiki_ed_sheeran/) to see the final page as a reference. 
+The exercise is to practice the HTML and CSS you've just learnt by recreating the page:
 1. Copy the HTML boiler plate section 
 2. Copy and paste the text in the "text used" portion into the relevant sections
   * Header, Article, Aside 
